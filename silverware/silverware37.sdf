@@ -138,7 +138,19 @@
       <collision name="knife0">
         <geometry>
 	  <mesh>
-            <uri>knife.obj</uri>
+            <uri>knife_bound_1.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>knife_bound_2.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>knife_bound_3.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>knife_bound_4.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
         </geometry>
@@ -173,7 +185,19 @@
       <collision name="knife1">
         <geometry>
 	  <mesh>
-            <uri>knife.obj</uri>
+            <uri>knife_bound_1.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>knife_bound_2.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>knife_bound_3.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>knife_bound_4.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
         </geometry>
