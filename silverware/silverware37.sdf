@@ -28,7 +28,27 @@
       <collision name="fork0">
         <geometry>
 	  <mesh>
-            <uri>fork.obj</uri>
+            <uri>fork_bound_1.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_2.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_3.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_4.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_5.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_6.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
         </geometry>
@@ -63,7 +83,27 @@
       <collision name="fork1">
         <geometry>
 	  <mesh>
-            <uri>fork.obj</uri>
+            <uri>fork_bound_1.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_2.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_3.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_4.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_5.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>fork_bound_6.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
         </geometry>
