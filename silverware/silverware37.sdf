@@ -232,7 +232,23 @@
       <collision name="spoon0">
         <geometry>
 	  <mesh>
-            <uri>spoon.obj</uri>
+            <uri>spoon_bound_1.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_2.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_3.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_4.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_5.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
         </geometry>
@@ -267,7 +283,23 @@
       <collision name="spoon1">
         <geometry>
 	  <mesh>
-            <uri>spoon.obj</uri>
+            <uri>spoon_bound_1.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_2.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_3.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_4.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+	  <mesh>
+            <uri>spoon_bound_5.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
         </geometry>
