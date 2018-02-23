@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+<model name="fork0">
+    <pose>0.00377074816599 -0.124860076089 0.250700916381 1.57079632679 0.0365913405876 1.84892254797</pose>
+    <link name="fork0">
+      <pose>0 0 0 0 0 0</pose>
+        <inertial>
+          <mass>0.2</mass>
+            <inertia>
+              <ixx>0.00069</ixx>
+              <ixy>0</ixy>
+              <ixz>0</ixz>
+              <iyy>0.00069</iyy>
+              <iyz>0</iyz>
+              <izz>0.00004</izz>
+            </inertia>
+        </inertial>
+      <visual name="fork0">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+	  <mesh>
+            <uri>fork.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+        <material/>
+      </visual>
+      <collision name="fork0">
+        <geometry>
+	  <mesh>
+            <uri>fork.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+      </collision>
+    </link>
+</model>
+<model name="fork1">
+    <pose>-0.0499309188366 0.128645403152 0.159960909732 1.57079632679 0.0376975952256 2.68782040618</pose>
+    <link name="fork1">
+      <pose>0 0 0 0 0 0</pose>
+        <inertial>
+          <mass>0.2</mass>
+            <inertia>
+              <ixx>0.00069</ixx>
+              <ixy>0</ixy>
+              <ixz>0</ixz>
+              <iyy>0.00069</iyy>
+              <iyz>0</iyz>
+              <izz>0.00004</izz>
+            </inertia>
+        </inertial>
+      <visual name="fork1">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+	  <mesh>
+            <uri>fork.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+        <material/>
+      </visual>
+      <collision name="fork1">
+        <geometry>
+	  <mesh>
+            <uri>fork.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+      </collision>
+    </link>
+</model>
+<model name="knife0">
+    <pose>-0.0316088227544 0.0870096681036 0.377194593864 1.57079632679 0.0138074596335 3.12159307204</pose>
+    <link name="knife0">
+      <pose>0 0 0 0 0 0</pose>
+        <inertial>
+          <mass>0.2</mass>
+            <inertia>
+              <ixx>0.00069</ixx>
+              <ixy>0</ixy>
+              <ixz>0</ixz>
+              <iyy>0.00069</iyy>
+              <iyz>0</iyz>
+              <izz>0.00004</izz>
+            </inertia>
+        </inertial>
+      <visual name="knife0">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+	  <mesh>
+            <uri>knife.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+        <material/>
+      </visual>
+      <collision name="knife0">
+        <geometry>
+	  <mesh>
+            <uri>knife.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+      </collision>
+    </link>
+</model>
+<model name="knife1">
+    <pose>0.131896892989 0.135924330007 0.319763033444 1.57079632679 0.0850300890088 1.35585491756</pose>
+    <link name="knife1">
+      <pose>0 0 0 0 0 0</pose>
+        <inertial>
+          <mass>0.2</mass>
+            <inertia>
+              <ixx>0.00069</ixx>
+              <ixy>0</ixy>
+              <ixz>0</ixz>
+              <iyy>0.00069</iyy>
+              <iyz>0</iyz>
+              <izz>0.00004</izz>
+            </inertia>
+        </inertial>
+      <visual name="knife1">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+	  <mesh>
+            <uri>knife.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+        <material/>
+      </visual>
+      <collision name="knife1">
+        <geometry>
+	  <mesh>
+            <uri>knife.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+      </collision>
+    </link>
+</model>
+<model name="spoon0">
+    <pose>-0.0151978324459 0.00948543186813 0.422157849871 1.57079632679 0.0878885806048 -2.57057614645</pose>
+    <link name="spoon0">
+      <pose>0 0 0 0 0 0</pose>
+        <inertial>
+          <mass>0.2</mass>
+            <inertia>
+              <ixx>0.00069</ixx>
+              <ixy>0</ixy>
+              <ixz>0</ixz>
+              <iyy>0.00069</iyy>
+              <iyz>0</iyz>
+              <izz>0.00004</izz>
+            </inertia>
+        </inertial>
+      <visual name="spoon0">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+	  <mesh>
+            <uri>spoon.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+        <material/>
+      </visual>
+      <collision name="spoon0">
+        <geometry>
+	  <mesh>
+            <uri>spoon.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+      </collision>
+    </link>
+</model>
+<model name="spoon1">
+    <pose>-0.0301036087231 -0.0323125328732 0.41498911774 1.57079632679 -0.0257390920311 1.5721347087</pose>
+    <link name="spoon1">
+      <pose>0 0 0 0 0 0</pose>
+        <inertial>
+          <mass>0.2</mass>
+            <inertia>
+              <ixx>0.00069</ixx>
+              <ixy>0</ixy>
+              <ixz>0</ixz>
+              <iyy>0.00069</iyy>
+              <iyz>0</iyz>
+              <izz>0.00004</izz>
+            </inertia>
+        </inertial>
+      <visual name="spoon1">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+	  <mesh>
+            <uri>spoon.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+        <material/>
+      </visual>
+      <collision name="spoon1">
+        <geometry>
+	  <mesh>
+            <uri>spoon.obj</uri>
+            <scale>0.01</scale>
+	  </mesh>
+        </geometry>
+      </collision>
+    </link>
+</model>
+
+</sdf>
