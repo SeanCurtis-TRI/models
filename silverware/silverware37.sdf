@@ -22,8 +22,7 @@
             <uri>fork.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
-        </geometry>
-        <material/>
+	</geometry>
       </visual>
       <collision name="fork0">
         <geometry>
@@ -31,22 +30,42 @@
             <uri>fork_bound_1.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork0b">
+	<geometry>
 	  <mesh>
             <uri>fork_bound_2.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork0b">
+	<geometry>
 	  <mesh>
             <uri>fork_bound_3.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork0b">
+	<geometry>
 	  <mesh>
             <uri>fork_bound_4.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork0b">
+	<geometry>
 	  <mesh>
             <uri>fork_bound_5.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork0b">
+	<geometry>
 	  <mesh>
             <uri>fork_bound_6.obj</uri>
             <scale>0.01</scale>
@@ -86,22 +105,42 @@
             <uri>fork_bound_1.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork1">
+        <geometry>
 	  <mesh>
             <uri>fork_bound_2.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork1">
+        <geometry>
 	  <mesh>
             <uri>fork_bound_3.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork1">
+        <geometry>
 	  <mesh>
             <uri>fork_bound_4.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork1">
+        <geometry>
 	  <mesh>
             <uri>fork_bound_5.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="fork1">
+        <geometry>
 	  <mesh>
             <uri>fork_bound_6.obj</uri>
             <scale>0.01</scale>
@@ -141,14 +180,26 @@
             <uri>knife_bound_1.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="knife0">
+        <geometry>
 	  <mesh>
             <uri>knife_bound_2.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="knife0">
+        <geometry>
 	  <mesh>
             <uri>knife_bound_3.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="knife0">
+        <geometry>
 	  <mesh>
             <uri>knife_bound_4.obj</uri>
             <scale>0.01</scale>
@@ -188,14 +239,26 @@
             <uri>knife_bound_1.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="knife1">
+        <geometry>
 	  <mesh>
             <uri>knife_bound_2.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="knife1">
+        <geometry>
 	  <mesh>
             <uri>knife_bound_3.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="knife1">
+        <geometry>
 	  <mesh>
             <uri>knife_bound_4.obj</uri>
             <scale>0.01</scale>
@@ -235,18 +298,34 @@
             <uri>spoon_bound_1.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon0">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_2.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon0">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_3.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon0">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_4.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon0">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_5.obj</uri>
             <scale>0.01</scale>
@@ -286,18 +365,34 @@
             <uri>spoon_bound_1.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon1">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_2.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon1">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_3.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon1">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_4.obj</uri>
             <scale>0.01</scale>
 	  </mesh>
+	</geometry>
+      </collision>
+      <collision name="spoon1">
+        <geometry>
 	  <mesh>
             <uri>spoon_bound_5.obj</uri>
             <scale>0.01</scale>
